@@ -1,0 +1,7 @@
+PageObject\test\BaseTestData.class
+PageObject\page\DashboardPage.class
+PageObject\page\HeroesPage.class
+PageObject\test\CreateDeleteHeroTest.class
+PageObject\test\LoadHeroDataTest.class
+PageObject\page\PageObject.class
+PageObject\test\SearchHeroTest.class
