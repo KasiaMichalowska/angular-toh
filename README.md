@@ -12,5 +12,5 @@ Then:
 5. Navigate to ``http://localhost:4200``
 6. Navigate to PowelQA/poweltask
 7. If needed (i.e. you're not using MS Windows or Chrome), edit and modify Webdriver settings accordingly in file src/test/java/PageObject/test/BaseTestData.java 
-8. run mvn clean test to run tests
+8. Run mvn clean test to run tests
 prerequisities: Java and Maven installed
